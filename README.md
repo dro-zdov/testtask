@@ -1,4 +1,4 @@
 # Тестовое задание
-Строка: fligdkmtmgdldkgkkfjsivjoqqxasoskvprfejrgkrlidgkdssadkudfglidgkmashdua
-Подстрока:	ligdkm
-Задача: Найти количество вхлждений подстроки в строку, с учетом всех возможн перестановок символов в подстроке
+- Строка: fligdkmtmgdldkgkkfjsivjoqqxasoskvprfejrgkrlidgkdssadkudfglidgkmashdua
+- Подстрока:	ligdkm
+- Задача: Найти количество вхождений подстроки в строку, с учетом всех возможных перестановок символов в подстроке
